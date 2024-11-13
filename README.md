@@ -1,4 +1,4 @@
-# Drug_Review_Sentimet_Analysis_using_LSTM
+# Drug_Review_Sentimet_Analysis
 
 
 ## Project Overview
